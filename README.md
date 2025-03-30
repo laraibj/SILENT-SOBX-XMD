@@ -29,12 +29,12 @@
 
 -------
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰SILENT-SOBX-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰SILENT-SOBX-XMD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
  
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD🚀&description=🥂❤️🔐🚀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT%20MANGER%20AND%20BUG%20FINDER%20DARKDEVIL⁷¹⁹🖤🔥💀🚀&image=https://i.ibb.co/QvGkkd0/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER0432&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SILENT-SOBX-XMD🚀&description=🥂❤️🔐🚀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT%20MANGER%20AND%20BUG%20FINDER%20DARKDEVIL⁷¹⁹🖤🔥💀🚀&image=https://i.ibb.co/QvGkkd0/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER0432&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -47,12 +47,12 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD🚀&description=🥂❤�
 </p>
   <p align="center">
 <a    href="https://github.com/SILENTLOVER0432?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER0432?label=Followers&style=social"></a>
-<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-MD?&style=social"></a>
+<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-XMD?&style=social"></a>
 <a
-href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-MD?style=social"></a>
-<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER0432/SILENT-SOBX-MD?label=Watching&style=social"></a>
+href="https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-XMD?style=social"></a>
+<a href="https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER0432/SILENT-SOBX-XMD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SILENTLOVER0432/SILENT-SOBX-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/SILENTLOVER0432/SILENT-SOBX-XMD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER432&color=pink&style=plastic" alt="Developer Badge">
                   
@@ -61,7 +61,7 @@ href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img ti
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" />
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-XMD/count.svg" />
   
 `© CREATED BY SILENTLOVER432`
 -
@@ -77,13 +77,13 @@ href="https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/network/members"><img ti
 
 ----------------
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/SILENTLOVER0432/SILENT-SOBX-XMD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-MD?style=social)
+![stars](https://img.shields.io/github/stars/SILENTLOVER0432/SILENT-SOBX-XMD?style=social)
 
 
-[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER0432/SILENT-SOBX-MD/fork)
+[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
@@ -185,7 +185,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 ------------
  
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER0432/SILENT-SOBX-MD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="DEPLOY BOT" height="90" width="280" /></a>
 
 ----------
 
@@ -195,7 +195,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER0432/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/SILENTLOVER0432/SILENT-SOBX-XMD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
