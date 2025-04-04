@@ -1,62 +1,115 @@
-const { cmd } = require("../command");
+const axios = require('axios');
+const { cmd } = require('../command');
 
 cmd({
-  pattern: "vv3",
-  alias: ["wah", "ohh", "oho", "🙂", "nice", "ok"],
-  desc: "Owner Only - retrieve quoted message back to user",
-  category: "owner",
-  filename: __filename
-}, async (client, message, match, { from, isOwner }) => {
-  try {
-    if (!isOwner) {
-      return; // Simply return without any response if not owner
+    pattern: "tempmail",
+    alias: ["genmail"],
+    desc: "Generate a new temporary email address",
+    category: "utility",
+    react: "📧",
+    filename: __filename
+},
+async (conn, mek, m, { from, reply, prefix }) => {
+    try {
+        const response = await axios.get('https://apis.davidcyriltech.my.id/temp-mail');
+        const { email, session_id, expires_at } = response.data;
+
+        // Format the expiration time and date
+        const expiresDate = new Date(expires_at);
+        const timeString = expiresDate.toLocaleTimeString('en-US', {
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: true
+        });
+        const dateString = expiresDate.toLocaleDateString('en-US', {
+            weekday: 'short',
+            month: 'short',
+            day: 'numeric',
+            year: 'numeric'
+        });
+
+        // Create the complete message
+        const message = `
+📧 *TEMPORARY EMAIL GENERATED*
+
+✉️ *Email Address:*
+${email}
+
+⏳ *Expires:*
+${timeString} • ${dateString}
+
+🔑 *Session ID:*
+\`\`\`${session_id}\`\`\`
+
+📥 *Check Inbox:*
+.inbox ${session_id}
+
+_Email will expire after 24 hours_
+`;
+
+        await conn.sendMessage(
+            from,
+            { 
+                text: message,
+                contextInfo: {
+                    forwardingScore: 999,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363363023106228@newsletter',
+                        newsletterName: 'TempMail Service',
+                        serverMessageId: 101
+                    }
+                }
+            },
+            { quoted: mek }
+        );
+
+    } catch (e) {
+        console.error('TempMail error:', e);
+        reply(`❌ Error: ${e.message}`);
     }
+});
+cmd({
+    pattern: "checkmail",
+    alias: ["inbox", "tmail", "mailinbox"],
+    desc: "Check your temporary email inbox",
+    category: "utility",
+    react: "📬",
+    filename: __filename
+},
+async (conn, mek, m, { from, reply, args }) => {
+    try {
+        const sessionId = args[0];
+        if (!sessionId) return reply('🔑 Please provide your session ID\nExample: .checkmail YOUR_SESSION_ID');
 
-    if (!match.quoted) {
-      return await client.sendMessage(from, {
-        text: "*🍁 Please reply to a view once message!*"
-      }, { quoted: message });
+        const inboxUrl = `https://apis.davidcyriltech.my.id/temp-mail/inbox?id=${encodeURIComponent(sessionId)}`;
+        const response = await axios.get(inboxUrl);
+
+        if (!response.data.success) {
+            return reply('❌ Invalid session ID or expired email');
+        }
+
+        const { inbox_count, messages } = response.data;
+
+        if (inbox_count === 0) {
+            return reply('📭 Your inbox is empty');
+        }
+
+        let messageList = `📬 *You have ${inbox_count} message(s)*\n\n`;
+        messages.forEach((msg, index) => {
+            messageList += `━━━━━━━━━━━━━━━━━━\n` +
+                          `📌 *Message ${index + 1}*\n` +
+                          `👤 *From:* ${msg.from}\n` +
+                          `📝 *Subject:* ${msg.subject}\n` +
+                          `⏰ *Date:* ${new Date(msg.date).toLocaleString()}\n\n` +
+                          `📄 *Content:*\n${msg.body}\n\n` +
+                          `🚀 POWERD BY SILENTLOVER432 ♥️`;
+        });
+
+        await reply(messageList);
+
+    } catch (e) {
+        console.error('CheckMail error:', e);
+        reply(`❌ Error checking inbox: ${e.response?.data?.message || e.message}`);
     }
-
-    const buffer = await match.quoted.download();
-    const mtype = match.quoted.mtype;
-    const options = { quoted: message };
-
-    let messageContent = {};
-    switch (mtype) {
-      case "imageMessage":
-        messageContent = {
-          image: buffer,
-          caption: match.quoted.text || '',
-          mimetype: match.quoted.mimetype || "image/jpeg"
-        };
-        break;
-      case "videoMessage":
-        messageContent = {
-          video: buffer,
-          caption: match.quoted.text || '',
-          mimetype: match.quoted.mimetype || "video/mp4"
-        };
-        break;
-      case "audioMessage":
-        messageContent = {
-          audio: buffer,
-          mimetype: "audio/mp4",
-          ptt: match.quoted.ptt || false
-        };
-        break;
-      default:
-        return await client.sendMessage(from, {
-          text: "❌ Only image, video, and audio messages are supported"
-        }, { quoted: message });
-    }
-
-    // Forward to user's DM
-    await client.sendMessage(message.sender, messageContent, options);
-  } catch (error) {
-    console.error("vv Error:", error);
-    await client.sendMessage(from, {
-      text: "❌ Error fetching vv message:\n" + error.message
-    }, { quoted: message });
-  }
 });
