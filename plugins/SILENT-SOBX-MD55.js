@@ -44,7 +44,9 @@ ${timeString} • ${dateString}
 📥 *Check Inbox:*
 .inbox ${session_id}
 
-_Email will expire after 24 hours_
+*_Email will expire after 24 hours_*
+
+> © POWERD BY SILENTLOVER432 ♥️
 `;
 
         await conn.sendMessage(
@@ -55,8 +57,8 @@ _Email will expire after 24 hours_
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363363023106228@newsletter',
-                        newsletterName: 'TempMail Service',
+                        newsletterJid: '120363189714152560@newsletter',
+                        newsletterName: '🐬↻SILENT-SOBX-MD',
                         serverMessageId: 101
                     }
                 }
