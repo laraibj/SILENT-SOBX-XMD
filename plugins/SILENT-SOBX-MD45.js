@@ -20,6 +20,10 @@ contact me 923096287432 ♻️
 
 
 
+const yts = require('yt-search');
+const path = require('path');
+const axios = require("axios");
+const fs = require('fs');
 const config = require('../config');
 const { cmd } = require('../command');
 const { ytsearch, ytmp3, ytmp4 } = require('@dark-yasiya/yt-dl.js'); 
