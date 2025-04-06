@@ -69,7 +69,7 @@ cmd({
         'url': _0x519f84
       },
       'mimetype': 'video/mp4',
-      'caption': _0x390c02
+      'caption': `> © POWERD BY SILENTLOVER432 ♥️`
     }, {
       'quoted': _0x3a6d67
     });
