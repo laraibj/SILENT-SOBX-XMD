@@ -19,4 +19,266 @@ contact me 923096287432 ♻️
 
 
 
-function _0x5e1d(_0x1307f9,_0x325b16){const _0xe97da7=_0xe97d();return _0x5e1d=function(_0x5e1dba,_0x53d702){_0x5e1dba=_0x5e1dba-0xeb;let _0x312c71=_0xe97da7[_0x5e1dba];return _0x312c71;},_0x5e1d(_0x1307f9,_0x325b16);}const _0x63d72f=_0x5e1d;(function(_0x7de588,_0x4b9102){const _0x41f07b=_0x5e1d,_0x593d04=_0x7de588();while(!![]){try{const _0x234f46=parseInt(_0x41f07b(0x167))/0x1+parseInt(_0x41f07b(0x155))/0x2+-parseInt(_0x41f07b(0xec))/0x3+-parseInt(_0x41f07b(0x13e))/0x4+-parseInt(_0x41f07b(0x153))/0x5*(-parseInt(_0x41f07b(0x15e))/0x6)+parseInt(_0x41f07b(0x10e))/0x7*(-parseInt(_0x41f07b(0x16f))/0x8)+parseInt(_0x41f07b(0x140))/0x9*(-parseInt(_0x41f07b(0x126))/0xa);if(_0x234f46===_0x4b9102)break;else _0x593d04['push'](_0x593d04['shift']());}catch(_0x38bd2d){_0x593d04['push'](_0x593d04['shift']());}}}(_0xe97d,0x9bb14));function _0xe97d(){const _0x1c2167=['\x0a🔹\x20*LATEST\x20VERSION:*\x20','https://telegra.ph/file/2a06381b260c3f096a612.jpg','\x0a🔢\x20*TOTAL\x20COMMANDS🚀:*\x20','MB\x0a⚙️\x20*HOST\x20NAME:*\x20','\x20\x0a*┃◈┃•*\x20*♾️\x20HEART_REACT:*\x20➠\x20','\x0a*┃◈┃•*\x20*♾️\x20STATUS_REPLY:*\x20➠\x20','70CLhIvz','https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/raw/refs/heads/main/Auto_voice/AUD-20250309-WA0019.m4a','statSync','💾\x20*SYSTEM\x20INFO:*\x0a⏳\x20*UPTIME:*\x20','\x0a📟\x20*RAM\x20USAGE:*\x20','CURRENT_STATUS','ALWAYS_ONLINE','AUTO_REACT','axios','reboot','❌\x20An\x20error\x20occurred\x20while\x20checking\x20the\x20bot\x20system.','AUTO_READ_STATUS','CAPTION','owner','\x0a👤\x20*OWNER:*\x20[SILENTLOVER432](https://github.com/SILENTLOVER0432)\x0a\x0a','json','SILENT-SOBX-MD','rebot','sender','Check\x20bot\x27s\x20version,\x20system\x20stats,\x20and\x20update\x20info.','Failed\x20to\x20fetch\x20latest\x20version:','⭐\x20*GITHUB\x20REPO:*\x20','📝\x20*CHANGELOG:*\x0a','Sorry,\x20something\x20went\x20wrong\x20while\x20fetching\x20the\x20repository\x20information.\x20Please\x20try\x20again\x20later.','2920376lKwsVr','MODE','351531CuPcDc','AUTO_VOICE','\x0a\x0aUSE\x20*.UPDATE*\x20TO\x20UPDATE\x20YOUR\x20BOT.','https://raw.githubusercontent.com/SILENTLOVER0432/SILENT-SOBX-MD/main/my_data/version.json','restart\x20the\x20bot','version','main','existsSync','settings','✅\x20YOUR\x20BOT\x20SILENT-SOBX-MD\x20IS\x20UP-TO-DATE!\x20🚀❤️','🚀\x20YOUR\x20BOT\x20SILENT-SOBX-MD\x20IS\x20OUTDATED!\x0a🔹\x20*CURRENT\x20VERSION:*\x20','message','heapUsed','Localhost','\x20\x0a*┃◈┃•*\x20*♾️\x20PREFIX:*\x20➠\x20[','\x20\x0a*┃◈┃•*\x20*♾️\x20ANTI_LINK:*\x20➠\x20','error','Error\x20in\x20repo\x20command:','.setting','3043805rrNINT','toFixed','1947194FfpWhY','../lib/functions','restart','*[\x20BOT\x20•\x20NAME:📦\x20]*\x0a>\x20','runtime','../plugins','../command','sendMessage','repo','12EpuRzt','An\x20error\x20occurred:\x20','NIGHT','\x0a*┃◈┃•*\x20*♾️\x20CAPTION:*\x20➠\x20','OWNER_REACT','📌\x20*BOT\x20NAME:*\x20SILENT-SOBX-MD\x0a🔖\x20*CURRENT\x20VERSION\x20🚀:*\x20','120363189714152560@newsletter','length','\x0a*┃★╰──────────────*\x0a*╰━━━━━━━━━━━━━━━┈⊷*\x0a\x0a*•────────────•⟢*\x0a>\x20©\x20ᴘᴏᴡᴇʀᴇᴅ\x20ʙʏ\x20sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\x0a*•────────────•⟢*\x0a','203405vLFySm','https://api.github.com/repos/','https://github.com/SILENTLOVER0432/SILENT-SOBX-MD','endsWith','info','stargazers_count','\x20\x0a*┃◈┃•*\x20*♾️\x20BOT_NAME:*\x20➠\x20','audio/mp4','48OdSSUE','\x0a\x0a*[\x20OWNER\x20•\x20NAME:🪩\x20]*\x0a>\x20','\x0a📅\x20*LAST\x20UPDATE:*\x20','*THE\x20WORLD\x20🌍\x20BEST\x20WHATSAPP\x20BOT\x20CREATED\x20BY\x20SILENTLOVER432\x20♥️*','script','Heroku','\x0a\x0a*DON\x27T\x20FORGET\x20TO\x20STAR\x20🌟\x20AND\x20FORK\x20REPOSITORY\x20🚀*\x0a\x0a>\x20*©\x20POWERED\x20BY\x20SILENTLOVER432\x20♥️*','setting','env','join','child_process','Error\x20fetching\x20version\x20info:','\x0a\x0a*[\x20DESCRIPTION:🤖\x20]*\x0a>\x20','Unknown','\x0a📢\x20*LATEST\x20VERSION:*\x20','1496559ymzrjG','hostname','.js','\x0a*┃◈┃•*\x20*♾️\x20ALWAYS_ONLINE:*\x20➠\x20','get','mtime','BOT_NAME','ALIVE_IMG','memoryUsage','login','\x0a\x0a*_♻️PLATFORM:➠_*\x20','\x0a*┃◈┃•*\x20*♾️\x20ANTI_DEL_PATH:*\x20➠\x20','\x20\x0a*┃◈┃•*\x20*♾️\x20AUTO_VOICE:*\x20➠\x20','forks_count','DYNO','\x0a*┃◈┃•*\x20*♾️\x20FAKE_TYPING:*\x20➠\x20','STATUS_REACT','\x20\x0a*┃◈┃•*\x20*♾️\x20ALIVE_MSG:*\x20➠\x20','AUTO_STICKER','\x0a*┃◈┃•*\x20*♾️\x20MODE:*\x20➠\x20','HEART_REACT',']\x0a*┃◈┃•*\x20*♾️\x20FAKE_RECORDING:*\x20➠\x20','READ_CMD','readFileSync','uptime','No\x20changelog\x20available.','changelog','log','ANTI_DEL_PATH','You\x27re\x20not\x20bot\x20owner\x20🪄.','\x0a*┃◈┃•*\x20*♾️\x20READ_MESSAGE:*\x20➠\x20','../my_data/version.json','PREFIX','totalmem','296856XMyaEn','\x0a*[\x20•\x20\x20SILENT-SOBX-MD\x20-\x20SETTINGS‎\x20•\x20]*\x0a*╭━━━〔\x20SETTING-LIST\x20📃\x20〕━━━┈⊷*\x0a*┃★╭──────────────*\x0a*┃◈┃•*\x20*♾️\x20AUTO_READ_STATUS:*\x20➠\x20','status','ANTI_LINK','*_SILENT-SOBX-MD\x20SUCCESSFULLY\x20RESTART...✨_*','match','ALIVE_MSG','STATUS_REPLY','*_You\x27re\x20not\x20bot\x20owner\x20🪄._*','filter','getHours','Get\x20bot\x27s\x20settings\x20list.','\x0a*┃◈┃•*\x20*♾️\x20AUTO_REACT:*\x20➠\x20','FAKE_TYPING','MORNING','\x0a📂\x20*TOTAL\x20PLUGINS:*\x20','\x0a*┃◈┃•*\x20*♾️\x20READ_CMD:*\x20➠\x20','\x20\x0a*┃◈┃•*\x20*♾️\x20AUTO_REPLY:*\x20➠\x20'];_0xe97d=function(){return _0x1c2167;};return _0xe97d();}const config=require('../config'),{cmd,commands}=require(_0x63d72f(0x15b)),os=require('os'),fs=require('fs'),path=require('path'),{runtime}=require('../lib/functions'),axios=require(_0x63d72f(0x12e)),{sleep}=require(_0x63d72f(0x156)),fetch=require('node-fetch');cmd({'pattern':_0x63d72f(0x157),'alias':[_0x63d72f(0x137),_0x63d72f(0x12f)],'react':'🐬','desc':_0x63d72f(0x144),'category':_0x63d72f(0x133),'filename':__filename},async(_0x4570db,_0x3a306b,_0xab7f8b,{from:_0x3c7fc2,quoted:_0x3a2c57,body:_0x5e8f73,isCmd:_0x4655be,command:_0x1305af,args:_0x469f7a,q:_0x1094f0,isGroup:_0x51a95a,sender:_0x26d63b,senderNumber:_0x4d162e,botNumber2:_0x457cd2,botNumber:_0x3cc0b7,pushname:_0x1a5abb,isMe:_0x1e7cb4,isOwner:_0x109200,groupMetadata:_0x1d0bcf,groupName:_0xc89624,participants:_0x303973,groupAdmins:_0x587248,isBotAdmins:_0x498c05,isAdmins:_0x54cb87,reply:_0x3e2759})=>{const _0x3b159c=_0x63d72f;try{if(!_0x109200)return _0x3e2759(_0x3b159c(0x116));const {exec:_0x2ab177}=require(_0x3b159c(0x179));_0x3e2759('*_SILENT-SOBX-MD\x20RESTARTING...🚀_*'),await sleep(0x5dc),_0x2ab177('pm2\x20restart\x20all'),_0x3e2759(_0x3b159c(0x112));}catch(_0x4e7d8f){console[_0x3b159c(0x107)](_0x4e7d8f),_0x3e2759(''+_0x4e7d8f);}}),cmd({'pattern':_0x63d72f(0x148),'react':'☣️','alias':[_0x63d72f(0x176),'env'],'desc':_0x63d72f(0x119),'category':_0x63d72f(0x146),'use':_0x63d72f(0x152),'filename':__filename},async(_0x2bec10,_0xf6e97b,_0x56d4e8,{from:_0x2c4cd9,l:_0x3bbd05,quoted:_0x469859,body:_0x2e7f65,isCmd:_0x415ee4,umarmd:_0x2f385c,args:_0x514e03,q:_0x40a385,isGroup:_0x1ae7b9,sender:_0x3ec083,senderNumber:_0x50f89c,botNumber2:_0x3e205c,botNumber:_0x2868be,pushname:_0x5d2c82,isMe:_0x1f9883,isOwner:_0x3a2269,groupMetadata:_0x11d112,groupName:_0x53d6d4,participants:_0xf99086,groupAdmins:_0x2632f0,isBotAdmins:_0x488438,isAdmins:_0x471889,reply:_0x3cf8fe})=>{const _0x2ae81d=_0x63d72f;try{if(!_0x3a2269)return _0x3cf8fe(_0x2ae81d(0x109));let _0x5a0769=_0x2ae81d(0x10f)+config[_0x2ae81d(0x131)]+_0x2ae81d(0xff)+config[_0x2ae81d(0x13f)]+_0x2ae81d(0xf8)+config[_0x2ae81d(0x141)]+'\x20\x0a*┃◈┃•*\x20*♾️\x20AUTO_STICKER:*\x20➠\x20'+config[_0x2ae81d(0xfe)]+_0x2ae81d(0x11f)+config['AUTO_REPLY']+'\x20\x0a*┃◈┃•*\x20*♾️\x20ALIVE_IMG:*\x20➠\x20'+config[_0x2ae81d(0xf3)]+_0x2ae81d(0xfd)+config[_0x2ae81d(0x114)]+_0x2ae81d(0x14f)+config[_0x2ae81d(0x111)]+'\x20\x0a*┃◈┃•*\x20*♾️\x20ANTI_BAD:*\x20➠\x20'+config['ANTI_BAD']+_0x2ae81d(0x14e)+config[_0x2ae81d(0x10c)]+_0x2ae81d(0x101)+config['FAKE_RECORDING']+_0x2ae81d(0xfb)+config[_0x2ae81d(0x11b)]+_0x2ae81d(0x11a)+config[_0x2ae81d(0x12d)]+_0x2ae81d(0x124)+config[_0x2ae81d(0x100)]+'\x20\x0a*┃◈┃•*\x20*♾️\x20OWNER_REACT:*\x20➠\x20'+config[_0x2ae81d(0x162)]+_0x2ae81d(0x16d)+config[_0x2ae81d(0xf2)]+_0x2ae81d(0x10a)+config['READ_MESSAGE']+_0x2ae81d(0x11e)+config[_0x2ae81d(0x102)]+_0x2ae81d(0x161)+config[_0x2ae81d(0x132)]+_0x2ae81d(0xef)+config[_0x2ae81d(0x12c)]+'\x0a*┃◈┃•*\x20*♾️\x20CURRENT_STATUS:*\x20➠\x20'+config[_0x2ae81d(0x12b)]+_0x2ae81d(0x125)+config[_0x2ae81d(0x115)]+'\x0a*┃◈┃•*\x20*♾️\x20STATUS_REACT:*\x20➠\x20'+config[_0x2ae81d(0xfc)]+_0x2ae81d(0xf7)+config[_0x2ae81d(0x108)]+_0x2ae81d(0x166);await _0x2bec10[_0x2ae81d(0x15c)](_0x2c4cd9,{'image':{'url':config[_0x2ae81d(0xf3)]},'caption':_0x5a0769,'contextInfo':{'mentionedJid':[_0x56d4e8[_0x2ae81d(0x138)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x2ae81d(0x164),'newsletterName':'sιℓεηт-sσвx-м∂','serverMessageId':0x8f}}},{'quoted':_0xf6e97b});}catch(_0x44fabc){console[_0x2ae81d(0x150)](_0x44fabc),_0x3cf8fe(_0x2ae81d(0x15f)+_0x44fabc[_0x2ae81d(0x14b)]);}}),cmd({'pattern':'system','alias':[_0x63d72f(0x110),_0x63d72f(0x159),'uptime',_0x63d72f(0x16b)],'react':'🚀','desc':_0x63d72f(0x139),'category':'info','filename':__filename},async(_0x35faf9,_0x39c5ee,_0x335072,{from:_0x1b4ba4,sender:_0x5ad896,pushname:_0x321ad0,reply:_0x497ff6})=>{const _0x3718fd=_0x63d72f;try{const _0x33a911=path[_0x3718fd(0x178)](__dirname,_0x3718fd(0x10b));let _0x17c434=_0x3718fd(0x17c),_0x1555c9=_0x3718fd(0x105);if(fs[_0x3718fd(0x147)](_0x33a911)){const _0x2e788f=JSON['parse'](fs[_0x3718fd(0x103)](_0x33a911));_0x17c434=_0x2e788f[_0x3718fd(0x145)],_0x1555c9=_0x2e788f[_0x3718fd(0x106)];}const _0x17e9fb=_0x3718fd(0x143);let _0x3f856c=_0x3718fd(0x17c),_0x273753=_0x3718fd(0x105);try{const {data:_0x5d5dc6}=await axios[_0x3718fd(0xf0)](_0x17e9fb);_0x3f856c=_0x5d5dc6[_0x3718fd(0x145)],_0x273753=_0x5d5dc6[_0x3718fd(0x106)];}catch(_0x4ea000){console[_0x3718fd(0x150)](_0x3718fd(0x13a),_0x4ea000);}const _0x4a32b7=path[_0x3718fd(0x178)](__dirname,_0x3718fd(0x15a)),_0x4f89da=fs['readdirSync'](_0x4a32b7)[_0x3718fd(0x117)](_0x47527d=>_0x47527d[_0x3718fd(0x16a)](_0x3718fd(0xee)))[_0x3718fd(0x165)],_0x2d713b=commands['length'],_0x192272=runtime(process[_0x3718fd(0x104)]()),_0x2a0b1a=(process[_0x3718fd(0xf4)]()[_0x3718fd(0x14c)]/0x400/0x400)[_0x3718fd(0x154)](0x2),_0x314a55=(os[_0x3718fd(0x10d)]()/0x400/0x400)['toFixed'](0x2),_0x24ec0d=os[_0x3718fd(0xed)](),_0x4ec33d=fs[_0x3718fd(0x128)](_0x33a911)[_0x3718fd(0xf1)]['toLocaleString'](),_0x2f29b7=_0x3718fd(0x169);let _0x36e648=_0x3718fd(0x149);_0x17c434!==_0x3f856c&&(_0x36e648=_0x3718fd(0x14a)+_0x17c434+_0x3718fd(0x120)+_0x3f856c+_0x3718fd(0x142));const _0x534853='🌟\x20*GOOD\x20'+(new Date()[_0x3718fd(0x118)]()<0xc?_0x3718fd(0x11c):_0x3718fd(0x160))+',\x20'+_0x321ad0+'!*\x20🌟\x0a\x0a'+(_0x3718fd(0x163)+_0x17c434+_0x3718fd(0xeb)+_0x3f856c+_0x3718fd(0x11d)+_0x4f89da+_0x3718fd(0x122)+_0x2d713b+'\x0a\x0a')+(_0x3718fd(0x129)+_0x192272+_0x3718fd(0x12a)+_0x2a0b1a+'MB\x20/\x20'+_0x314a55+_0x3718fd(0x123)+_0x24ec0d+_0x3718fd(0x171)+_0x4ec33d+_0x3718fd(0xf6)+(process[_0x3718fd(0x177)][_0x3718fd(0xfa)]?_0x3718fd(0x174):_0x3718fd(0x14d)))+(_0x3718fd(0x13c)+_0x273753+'\x0a\x0a')+(_0x3718fd(0x13b)+_0x2f29b7+_0x3718fd(0x134)+_0x36e648+'\x0a\x0a🚀\x20*HEY!\x20DON\x27T\x20FORGET\x20TO\x20FORK\x20&\x20STAR\x20🌟\x20THE\x20REPO!*');await _0x35faf9[_0x3718fd(0x15c)](_0x1b4ba4,{'image':{'url':_0x3718fd(0x121)},'caption':_0x534853,'contextInfo':{'mentionedJid':[_0x335072[_0x3718fd(0x138)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363189714152560@newsletter','newsletterName':_0x3718fd(0x136),'serverMessageId':0x8f}}},{'quoted':_0x39c5ee});}catch(_0x5cd17d){console[_0x3718fd(0x150)](_0x3718fd(0x17a),_0x5cd17d),_0x497ff6(_0x3718fd(0x130));}}),cmd({'pattern':_0x63d72f(0x15d),'alias':['sc',_0x63d72f(0x173),'repository'],'desc':'Fetch\x20information\x20about\x20a\x20GitHub\x20repository.','react':'📂','category':_0x63d72f(0x16b),'filename':__filename},async(_0x19b3a5,_0x508410,_0xc904b8,{from:_0x313035,reply:_0x427331})=>{const _0x206f75=_0x63d72f,_0x3ad9e0=_0x206f75(0x169);try{const [,_0x2947ed,_0x17bcf8]=_0x3ad9e0[_0x206f75(0x113)](/github\.com\/([^/]+)\/([^/]+)/),_0x26d9b3=await fetch(_0x206f75(0x168)+_0x2947ed+'/'+_0x17bcf8);if(!_0x26d9b3['ok'])throw new Error('GitHub\x20API\x20request\x20failed\x20with\x20status\x20'+_0x26d9b3[_0x206f75(0x110)]);const _0x2ca461=await _0x26d9b3[_0x206f75(0x135)](),_0x445704=_0x206f75(0x158)+_0x2ca461['name']+_0x206f75(0x170)+_0x2ca461[_0x206f75(0x133)][_0x206f75(0xf5)]+'\x0a\x0a*[\x20STARS:🌟\x20]*\x0a>\x20'+_0x2ca461[_0x206f75(0x16c)]+'\x0a\x0a*[\x20FORKS:🚀\x20]*\x0a>\x20'+_0x2ca461[_0x206f75(0xf9)]+'\x0a\x0a*[\x20GITHUB\x20•\x20LINK:💫\x20]*\x0a>\x20'+_0x2ca461['html_url']+_0x206f75(0x17b)+(_0x2ca461['description']||_0x206f75(0x172))+_0x206f75(0x175);await _0x19b3a5[_0x206f75(0x15c)](_0x313035,{'image':{'url':_0x206f75(0x121)},'caption':_0x445704,'contextInfo':{'mentionedJid':[_0xc904b8[_0x206f75(0x138)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363189714152560@newsletter','newsletterName':_0x206f75(0x136),'serverMessageId':0x8f}}},{'quoted':_0x508410}),await _0x19b3a5[_0x206f75(0x15c)](_0x313035,{'audio':{'url':_0x206f75(0x127)},'mimetype':_0x206f75(0x16e),'ptt':!![],'contextInfo':{'mentionedJid':[_0xc904b8['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x206f75(0x164),'newsletterName':_0x206f75(0x136),'serverMessageId':0x8f}}},{'quoted':_0x508410});}catch(_0x47c48a){console[_0x206f75(0x150)](_0x206f75(0x151),_0x47c48a),_0x427331(_0x206f75(0x13d));}});
+const config = require('../config')
+const {cmd , commands} = require('../command')
+const os = require("os")
+const fs = require('fs');
+const path = require('path');
+const {runtime} = require('../lib/functions')
+const axios = require('axios')
+const {sleep} = require('../lib/functions')
+const fetch = require('node-fetch');
+
+cmd({
+    pattern: "restart",
+    alias: ["rebot","reboot"], 
+    react: "🐬",
+    desc: "restart the bot",
+    category: "owner",
+    filename: __filename
+},
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+if (!isOwner) return reply("*_You're not bot owner 🪄._*");
+const {exec} = require("child_process")
+reply("*_SILENT-SOBX-MD RESTARTING...🚀_*")
+await sleep(1500)
+exec("pm2 restart all")
+reply("*_SILENT-SOBX-MD SUCCESSFULLY RESTART...✨_*")
+}catch(e){
+console.log(e)
+reply(`${e}`)
+}
+})
+
+cmd({
+
+    pattern: "settings",
+
+    react: "☣️",
+
+    alias: ["setting","env"],
+
+    desc: "Get bot\'s settings list.",
+
+    category: "main",
+
+    use: '.setting',
+
+    filename: __filename
+
+},
+
+async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+
+try{
+if (!isOwner) return reply("You're not bot owner 🪄.");
+let madeSetting =`
+*[ •  SILENT-SOBX-MD - SETTINGS‎ • ]*
+*╭━━━〔 SETTING-LIST 📃 〕━━━┈⊷*
+*┃★╭──────────────*
+*┃◈┃•* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
+*┃◈┃•* *♾️ MODE:* ➠ ${config.MODE} 
+*┃◈┃•* *♾️ AUTO_VOICE:* ➠ ${config.AUTO_VOICE} 
+*┃◈┃•* *♾️ AUTO_STICKER:* ➠ ${config.AUTO_STICKER} 
+*┃◈┃•* *♾️ AUTO_REPLY:* ➠ ${config.AUTO_REPLY} 
+*┃◈┃•* *♾️ AUTO_REPLY_STATUS:* ➠ ${config.AUTO_REPLY_STATUS} 
+*┃◈┃•* *♾️ ALIVE_IMG:* ➠ ${config.ALIVE_IMG} 
+*┃◈┃•* *♾️ ALIVE_MSG:* ➠ ${config.ALIVE_MSG} 
+*┃◈┃•* *♾️ ANTI_LINK:* ➠ ${config.ANTI_LINK} 
+*┃◈┃•* *♾️ ANTI_BAD:* ➠ ${config.ANTI_BAD} 
+*┃◈┃•* *♾️ PREFIX:* ➠ [${config.PREFIX}]
+*┃◈┃•* *♾️ FAKE_RECORDING:* ➠ ${config.FAKE_RECORDING}
+*┃◈┃•* *♾️ FAKE_TYPING:* ➠ ${config.FAKE_TYPING}
+*┃◈┃•* *♾️ AUTO_REACT:* ➠ ${config.AUTO_REACT} 
+*┃◈┃•* *♾️ HEART_REACT:* ➠ ${config.HEART_REACT} 
+*┃◈┃•* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
+*┃◈┃•* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
+*┃◈┃•* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
+*┃◈┃•* *♾️ READ_CMD:* ➠ ${config.READ_CMD}
+*┃◈┃•* *♾️ CAPTION:* ➠ ${config.CAPTION}
+*┃◈┃•* *♾️ ALWAYS_ONLINE:* ➠ ${config.ALWAYS_ONLINE}
+*┃◈┃•* *♾️ CURRENT_STATUS:* ➠ ${config.CURRENT_STATUS}
+*┃◈┃•* *♾️ STATUS_REPLY:* ➠ ${config.STATUS_REPLY}
+*┃◈┃•* *♾️ STATUS_REACT:* ➠ ${config.STATUS_REACT}
+*┃◈┃•* *♾️ ANTI_DEL_PATH:* ➠ ${config.ANTI_DEL_PATH}
+*┃★╰──────────────*
+*╰━━━━━━━━━━━━━━━┈⊷*
+
+*•────────────•⟢*
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+*•────────────•⟢*
+`
+
+
+await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeSetting, 
+                             contextInfo: {
+
+mentionedJid: [m.sender],
+                forwardingScore: 999,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterName: 'sιℓεηт-sσвx-м∂',
+                    serverMessageId: 143
+                }
+            }
+        }, { quoted: mek });
+    } catch (e) {
+        console.error(e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+cmd({
+  pattern: 'system',
+  alias: ["status", "runtime", "uptime","info"],
+  react: '🚀',
+  desc: "Check bot's version, system stats, and update info.",
+  category: 'info',
+  filename: __filename
+}, async (conn, mek, m, {
+  from, sender, pushname, reply
+}) => {
+  try {
+    // Read local version data
+    const localVersionPath = path.join(__dirname, '../my_data/version.json');
+    let localVersion = 'Unknown';
+    let changelog = 'No changelog available.';
+    if (fs.existsSync(localVersionPath)) {
+      const localData = JSON.parse(fs.readFileSync(localVersionPath));
+      localVersion = localData.version;
+      changelog = localData.changelog;
+    }
+
+    // Fetch latest version data from GitHub
+    const rawVersionUrl = 'https://raw.githubusercontent.com/SILENTLOVER0432/SILENT-SOBX-XMD/main/my_data/version.json';
+    let latestVersion = 'Unknown';
+    let latestChangelog = 'No changelog available.';
+    try {
+      const { data } = await axios.get(rawVersionUrl);
+      latestVersion = data.version;
+      latestChangelog = data.changelog;
+    } catch (error) {
+      console.error('Failed to fetch latest version:', error);
+    }
+
+    // Count total plugins
+    const pluginPath = path.join(__dirname, '../plugins');
+    const pluginCount = fs.readdirSync(pluginPath).filter(file => file.endsWith('.js')).length;
+
+    // Count total registered commands
+    const totalCommands = commands.length;
+
+    // System info
+    const uptime = runtime(process.uptime());
+    const ramUsage = (process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2);
+    const totalRam = (os.totalmem() / 1024 / 1024).toFixed(2);
+    const hostName = os.hostname();
+    const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
+
+    // GitHub stats
+    const githubRepo = 'https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD';
+
+    // Check update status
+    let updateMessage = `✅ YOUR BOT SILENT-SOBX-MD IS UP-TO-DATE! 🚀❤️`;
+    if (localVersion !== latestVersion) {
+      updateMessage = `🚀 YOUR BOT SILENT-SOBX-MD IS OUTDATED!
+🔹 *CURRENT VERSION:* ${localVersion}
+🔹 *LATEST VERSION:* ${latestVersion}
+
+USE *.UPDATE* TO UPDATE YOUR BOT.`;
+    }
+
+    const statusMessage = `🌟 *GOOD ${new Date().getHours() < 12 ? 'MORNING' : 'NIGHT'}, ${pushname}!* 🌟\n\n` +
+      `📌 *BOT NAME:* SILENT-SOBX-MD\n🔖 *CURRENT VERSION 🚀:* ${localVersion}\n📢 *LATEST VERSION:* ${latestVersion}\n📂 *TOTAL PLUGINS:* ${pluginCount}\n🔢 *TOTAL COMMANDS🚀:* ${totalCommands}\n\n` +
+      `💾 *SYSTEM INFO:*\n⏳ *UPTIME:* ${uptime}\n📟 *RAM USAGE:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *HOST NAME:* ${hostName}\n📅 *LAST UPDATE:* ${lastUpdate}\n\n*_♻️PLATFORM:➠_* ${process.env.DYNO ? "Heroku" : "Localhost"}` +
+      `📝 *CHANGELOG:*\n${latestChangelog}\n\n` +
+      `⭐ *GITHUB REPO:* ${githubRepo}\n👤 *OWNER:* [SILENTLOVER432](https://github.com/SILENTLOVER0432)\n\n${updateMessage}\n\n🚀 *HEY! DON'T FORGET TO FORK & STAR 🌟 THE REPO!*`;
+
+    // Send the status message with an image
+    await conn.sendMessage(from, {
+      image: { url: 'https://telegra.ph/file/2a06381b260c3f096a612.jpg' },
+      caption: statusMessage,
+      contextInfo: {
+        mentionedJid: [m.sender],
+        forwardingScore: 999,
+        isForwarded: true,
+        forwardedNewsletterMessageInfo: {
+          newsletterJid: '120363189714152560@newsletter',
+          newsletterName: 'SILENT-SOBX-MD',
+          serverMessageId: 143
+        }
+      }
+    }, { quoted: mek });
+  } catch (error) {
+    console.error('Error fetching version info:', error);
+    reply('❌ An error occurred while checking the bot system.');
+  }
+});
+
+cmd({
+    pattern: "repo",
+    alias: ["sc", "script", "repository"],
+    desc: "Fetch information about a GitHub repository.",
+    react: "📂",
+    category: "info",
+    filename: __filename,
+},
+async (conn, mek, m, { from, reply }) => {
+    const githubRepoURL = 'https://github.com/SILENTLOVER0432/SILENT-SOBX-XMD';
+
+    try {
+        // Extract username and repo name from the URL
+        const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
+
+        // Fetch repository details using GitHub API
+        const response = await fetch(`https://api.github.com/repos/${username}/${repoName}`);
+        
+        if (!response.ok) {
+            throw new Error(`GitHub API request failed with status ${response.status}`);
+        }
+
+        const repoData = await response.json();
+
+        // Format the repository information
+        const formattedInfo = `*SILENT-SOBX-XMD A BEST MULTI DEVICE WHATSAPP BOT THIS SCRIPT CREATED TO USE @bailey's SCRIPT CREATED BY CYBER-X TEAM PUBLISHERS SILENT LOVER 432❤️👤 ©️ COPY CODERS GIVE CREDITS⚠️🚀*\n*[ PROJECT • NAME:📦 ]*\n> ${repoData.name}\n\n*[ PROJECT OWNER • NAME:🪩 ]*\n> SILENTLOVER432❤️\n\n*[ PROJECT STARS:🌟 ]*\n> ${repoData.stargazers_count}\n\n*[ PROJECT FORKS:🚀 ]*\n> ${repoData.forks_count}\n\n*[ PROJECT GITHUB • LINK:💫 ]*\n> ${repoData.html_url}\n\n*[ PROJECT DESCRIPTION:🤖 ]*\n> ${repoData.description || '*THE WORLD 🌍 BEST WHATSAPP BOT CREATED BY SILENTLOVER432 ♥️*'}\n\n*DON'T FORGET TO STAR 🌟 AND FORK REPOSITORY 🚀*\n\n> *© POWERED BY SILENTLOVER432 ♥️*`;
+
+        // Send an image with the formatted info as a caption and context info
+        await conn.sendMessage(from, {
+            image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` },
+            caption: formattedInfo,
+            contextInfo: { 
+                mentionedJid: [m.sender],
+                forwardingScore: 999,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterName: 'SILENT-SOBX-MD',
+                    serverMessageId: 143
+                }
+            }
+        }, { quoted: mek });
+
+        // Send the audio file with context info
+        await conn.sendMessage(from, {
+            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/repo.m4a' },
+            mimetype: 'audio/mp4',
+            ptt: true,
+            contextInfo: { 
+                mentionedJid: [m.sender],
+                forwardingScore: 999,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterName: 'SILENT-SOBX-MD',
+                    serverMessageId: 143
+                }
+            }
+        }, { quoted: mek });
+
+    } catch (error) {
+        console.error("Error in repo command:", error);
+        reply("Sorry, something went wrong while fetching the repository information. Please try again later.");
+    }
+});
