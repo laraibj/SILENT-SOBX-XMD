@@ -162,7 +162,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 ----------
 
 <p align="center">
-<a href='https://pair-bfou.onrender.com' target="_blank">
+<a href='https://cutt.ly/9rs8PoyE' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id=1-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
@@ -171,7 +171,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 ----------
 
 <p align="center">
-<a href= 'https://pair-bfou.onrender.com' target="_blank">
+<a href= 'https://cutt.ly/9rs8PoyE' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id=2-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
