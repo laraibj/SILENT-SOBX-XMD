@@ -242,11 +242,11 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `> *SILENT-SOBX-XMD A BEST MULTI DEVICE WHATSAPP BOT THIS SCRIPT CREATED TO USE @bailey's SCRIPT CREATED BY CYBER-X TEAM PUBLISHERS SILENTLOVER 432 ©️ COPY CODERS GIVE CREDITS❤️⚠️🚀*\n*[ PROJECT • NAME:📦 ]*\n> ${repoData.name}\n\n*[ PROJECTOWNER • NAME:🪩 ]*\n> SILENTLOVER432❤️\n\n*[ PROJECTSTARS:🌟 ]*\n> ${repoData.stargazers_count}\n\n*[ PROJECTFORKS:🚀 ]*\n> ${repoData.forks_count}\n\n*[ PROJECT • LINK:💫 ]*\n> ${repoData.html_url}\n\n*[ PROJECT DESCRIPTION:🤖 ]*\n> ${repoData.description || '*THE WORLD 🌍 BEST WHATSAPP BOT CREATED BY SILENTLOVER432 ♥️*'}\n\n*DON'T FORGET TO STAR 🌟 AND FORK REPOSITORY 🚀*\n\n> *© POWERED BY SILENTLOVER432 ♥️*`;
+        const formattedInfo = `> *SILENT-SOBX-XMD A BEST MULTI DEVICE WHATSAPP BOT THIS SCRIPT CREATED TO USE ~@bailey's~ SCRIPT CREATED BY CYBER-X TEAM PUBLISHERS SILENTLOVER 432 © COPY CODERS GIVE CREDITS ❤️⚠️🚀*\n*[ PROJECT • NAME:📦 ]*\n> ${repoData.name}\n\n*[ PROJECT • OWNER:🪩 ]*\n> SILENTLOVER432❤️\n\n*[ PROJECT STARS:🌟 ]*\n> ${repoData.stargazers_count}\n\n*[ PROJECT FORKS:🚀 ]*\n> ${repoData.forks_count}\n\n*[ PROJECT • LINK:💫 ]*\n> ${repoData.html_url}\n\n*[ PROJECT DESCRIPTION:🤖 ]*\n> ${repoData.description || '*THE WORLD 🌍 BEST WHATSAPP BOT CREATED BY SILENTLOVER432 ♥️*'}\n\n*DON'T FORGET TO STAR 🌟 AND FORK REPOSITORY 🚀*\n\n> *© POWERED BY SILENTLOVER432 ♥️*`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` },
+            image: { url: `https://files.catbox.moe/vswco6` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
